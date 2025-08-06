@@ -4,7 +4,7 @@
 
 | Keys           | Command                        | Description                                       |
 |----------------|--------------------------------|---------------------------------------------------|
-| `a` / `d`      | `sub-seek -1` / `sub-seek 1`   | Seek forward (a) / backward (b) to closest subtitle         |
+| `a` / `d`      | `sub-seek -1` / `sub-seek 1`   | Seek forward (a) / backward (d) to closest subtitle         |
 | `UP`           | `add volume 2`                 | Increase volume by 2 units                        |
 | `DOWN`         | `add volume -2`                | Decrease volume by 2 units                        |
 | `Alt + UP`     | `no-osd add sub-pos -1`        | Move subtitles up one row (without OSD)           |
@@ -55,4 +55,5 @@ Logs every media file you open along with the last playback position. Features:
 
 ---
 ```
+
 
