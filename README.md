@@ -52,8 +52,7 @@ Logs every media file you open along with the last playback position. Features:
    - Optional `.conf` files → `~/.config/mpv/script-opts/`
 
 3. Restart mpv and enjoy enhanced controls!
-
----
 ```
+
 
 
