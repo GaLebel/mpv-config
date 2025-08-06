@@ -14,6 +14,9 @@
 | `Ctrl + RIGHT` | `seek +5`                      | Seek forward 5 seconds                            |
 | `Ctrl + LEFT`  | `seek -5`                      | Seek backward 5 seconds                           |
 | `y`            | `cycle audio`                  | Cycle through audio tracks                        |
+| `SHIFT + q`    |  SimpleHistory command         | Save current video position                       |
+| `h`            |  SimpleHistory command         | Show interactive recently played files menu       |
+| `SHIFT + ?`    |  SmartSkip command             | Skip intro by detecting silence                   |
 
 ---
 
@@ -53,6 +56,7 @@ Logs every media file you open along with the last playback position. Features:
 
 3. Restart mpv and enjoy enhanced controls!
 ```
+
 
 
 
